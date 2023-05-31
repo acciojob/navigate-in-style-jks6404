@@ -8,5 +8,8 @@
 ul{
 	list-style-type:none;
 	display: flex;
-	margin: 16px 16px 16px 16px;
+}
+
+li{
+	margin-right:16px;
 }
